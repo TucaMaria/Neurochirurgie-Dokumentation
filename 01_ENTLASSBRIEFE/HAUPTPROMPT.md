@@ -171,3 +171,8 @@ Diese Regel hat Vorrang vor älteren Formulierungen, die einen „ausführlichen
 - Umfang: Ein unkomplizierter postoperativer Verlauf bleibt kompakt, auch wenn sehr viele Rohnotizen vorliegen. Komplexe Verläufe dürfen länger sein, jedoch nur wegen substantieller Ereignisse. Anamnese bewahrt relevante Vorgeschichte, ohne sie im Verlauf erneut auszuführen.
 - Keine Erfindungen oder Glättung: Widersprüche, bedeutsame Restbefunde, Unsicherheit und echte Komplikationen erhalten; nichts allein wegen der Kürze verschweigen. Keine ärztliche Entscheidung aus dem bloßen radiologischen Wortlaut erfinden.
 - Interner Endcheck: Jeden Satz im Verlauf darauf prüfen, ob er eine wesentliche klinische Aussage trägt. Unnötige OP-Technik, Befundprosa, Visitentagebuch und Dopplungen entfernen.
+
+## Standardbaustein Glioblastom / Hirnmetastasen – nach Strahlentherapie (Nutzerbestätigung 26.10.2026)
+Bei bestätigtem Glioblastom oder Hirnmetastasen und entsprechendem Nachsorgeplan im Abschnitt „Termine und Wiedervorstellungen“ ergänzen, nicht nochmals unter Empfehlungen:
+- Neurochirurgische Wiedervorstellung mit aktueller MRT-Untersuchung des Schädels drei Monate nach Abschluss der Strahlentherapie. Zur Terminvereinbarung bitten wir um telefonische Kontaktaufnahme unter Tel. 0772193-2102 oder -2103. Zum Termin bitten wir um Mitbringen einer entsprechenden Überweisung sowie der aktuellen MRT-Bilder.
+Bei histologisch noch unklarem malignem Tumor den Baustein nur anwenden, wenn diese Nachsorge tatsächlich vorgesehen ist; individuelle Anordnungen gehen vor. Nicht behaupten, dass der Termin bereits vereinbart sei.
