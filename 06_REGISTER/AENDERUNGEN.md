@@ -44,3 +44,5 @@
 09.10.2026 · Version 0.22: Grund der etapisierten Instrumentierung ausdrücklich nur intern; keine Erläuterung zu Zugang/Spreizer im ausgegebenen OP-Bericht.
 
 09.10.2026 · Version 0.23: LWS-Verlauf ausdrücklich auch postoperativ ausführlich und zusammenhängend; konkrete Schmerz-, neurologische, Mobilisations- und Wundentwicklung statt Dreisatz Operation/komplikationslos/Entlassung. Abstrahiertes Stilbeispiel ergänzt; fehlende Daten nicht durch Routinebefunde ersetzen. Masterprompt, Entlassbrief-Hauptprompt, beide LWS-Referenzen und Qualitätskontrolle synchronisiert.
+
+26.10.2026 · Version 0.24: Verbindliche klinische Synthese für Entlassbriefe: OP-Berichte in 1–2 ergebnisorientierten Sätzen statt technischer Nacherzählung, Bildgebung nur mit neurochirurgisch entscheidungsrelevanter Interpretation, Visiteneinträge zu logischem Verlauf verdichten. „Ausführlich“ bedeutet klinisch vollständig, nicht tagebuchartig. Masterprompt, Entlassbrief-Hauptprompt und Qualitätskontrolle aktualisiert.
