@@ -72,3 +72,5 @@
 - Visiten in sinnvolle Verlaufsphasen und Wendepunkte verdichtet statt Eintrag für Eintrag nacherzählt?
 - Jede Einzelheit notwendig für Entscheidungen, Komplikationen, Verlauf oder Nachsorge? Routinedetails und Dopplungen gestrichen?
 - Bisherige Forderung nach ausführlichem Verlauf als ausreichende klinische Substanz, nicht als Textlänge verstanden?
+
+- Bei Glioblastom oder Hirnmetastasen und entsprechendem Strahlentherapie-Nachsorgeplan: MRT-Kontrolle des Schädels drei Monate nach Abschluss der Strahlentherapie nur unter „Termine und Wiedervorstellungen“, mit Kontakt 0772193-2102 oder -2103, Überweisung und aktuellen MRT-Bildern; keine bereits vereinbarte Terminierung behaupten.
