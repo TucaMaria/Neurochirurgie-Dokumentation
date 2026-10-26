@@ -65,3 +65,10 @@
 - LWS: Auch der postoperative Verlauf ausreichend entwickelt, statt nur Operation – komplikationslos – Entlassung? Konkrete Schmerz-, Sensibilitäts-/Motorik-, Mobilisations- und Wundentwicklung nach Fallangaben enthalten oder relevante Lücken markiert?
 - Radikuläre Schmerzen von Wundschmerzen getrennt; rückläufige Hypästhesie nicht als vollständig verschwunden beschrieben; aus Komplikationsfreiheit keine Einzelbefunde abgeleitet?
 - Keine pauschale kausale Zuschreibung der Schmerzregredienz an Physiotherapie/Analgesie und keine redundante Terminverweisung im Entlasssatz?
+
+## Zusatzprüfung v0.24 – klinische Verdichtung (26.10.2026)
+- OP-Bericht im Entlassbrief nur 1–2 ergebnisorientierte Sätze plus echte behandlungsrelevante Besonderheiten? Keine Operationsschritt-für-Schritt-Wiedergabe?
+- Radiologische Befunde in klinisch relevanter neurochirurgischer Aussage zusammengefasst statt Befundtext kopiert? Aussagegrenzen gewahrt?
+- Visiten in sinnvolle Verlaufsphasen und Wendepunkte verdichtet statt Eintrag für Eintrag nacherzählt?
+- Jede Einzelheit notwendig für Entscheidungen, Komplikationen, Verlauf oder Nachsorge? Routinedetails und Dopplungen gestrichen?
+- Bisherige Forderung nach ausführlichem Verlauf als ausreichende klinische Substanz, nicht als Textlänge verstanden?
