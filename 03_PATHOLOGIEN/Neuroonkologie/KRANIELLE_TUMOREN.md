@@ -56,3 +56,8 @@ Den Satz „Der Patient wurde über dieses Fahrverbot ausführlich aufgeklärt�
 - Neurochirurgische MVZ-Kontrolle mit aktuellem MRT: Vorlage enthält drei Monate oder drei Monate nach Ende der Strahlentherapie. Den zutreffenden Plan auswählen lassen; nicht beide Alternativen nebeneinander ausgeben. Geplantes CT/MRT vor Ort gesondert bestätigen.
 
 Kontakt 0772193-2102 oder -2103. Metamizolhinweis bei entsprechender Entlassmedikation.
+
+## Standardbaustein Glioblastom / Hirnmetastasen – nach Strahlentherapie (Nutzerbestätigung 26.10.2026)
+Bei bestätigtem Glioblastom oder Hirnmetastasen und entsprechendem Nachsorgeplan im Abschnitt „Termine und Wiedervorstellungen“ ergänzen, nicht nochmals unter Empfehlungen:
+- Neurochirurgische Wiedervorstellung mit aktueller MRT-Untersuchung des Schädels drei Monate nach Abschluss der Strahlentherapie. Zur Terminvereinbarung bitten wir um telefonische Kontaktaufnahme unter Tel. 0772193-2102 oder -2103. Zum Termin bitten wir um Mitbringen einer entsprechenden Überweisung sowie der aktuellen MRT-Bilder.
+Bei histologisch noch unklarem malignem Tumor den Baustein nur anwenden, wenn diese Nachsorge tatsächlich vorgesehen ist; individuelle Anordnungen gehen vor. Nicht behaupten, dass der Termin bereits vereinbart sei.
