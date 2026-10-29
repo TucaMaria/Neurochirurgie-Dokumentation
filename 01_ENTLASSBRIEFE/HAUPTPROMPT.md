@@ -44,6 +44,9 @@ Stilbeispiel, nur bei entsprechend belegten Befunden: „Patient wach, ansprechb
 
 Je nach dokumentierten Befunden: Bewusstsein, Orientierung, Sprache, Hirnnerven, Pupillen, Motorik, Sensibilität, Reflexe, Koordination, Gang, Meningismus, Blasen- oder Mastdarmfunktion. Fehlende Untersuchungen nicht als unauffällig darstellen.
 
+
+Bei degenerativen Wirbelsäulenerkrankungen den Aufnahmebefund auf die lokalisations- und radikulopathiebezogene Symptomatik sowie den relevanten klinisch-neurologischen Status fokussieren: Schmerzlokalisation und Ausstrahlung, segmentbezogene Paresen bzw. Kennmuskeln, Sensibilität, Reflexe, Lasègue bzw. andere radikuläre Zeichen, Stand, Gang und Gehstrecke, soweit dokumentiert. Allgemeine Vigilanzfloskeln wie „Patient wach, ansprechbar“ nicht routinemäßig aufnehmen, wenn hierfür kein klinischer Anlass besteht.
+
 ## Anamnese
 Zusammenhängender Fließtext mit vollständigen Sätzen, ohne Aufzählungen. Im Präteritum formulieren. Aktuelle Beschwerden, zeitlicher Beschwerdeverlauf, relevante Vorbehandlungen, Voroperationen, Vorerkrankungen, ambulante Diagnostik und Aufnahmeindikation integrieren, soweit übermittelt. Angaben im Verlauf nicht unnötig wiederholen.
 
@@ -71,6 +74,9 @@ Bereits erfolgte Konsile oder Tumorboardentscheidungen dürfen als Ereignisse im
 Immer eigener Abschnitt. Klinischer Zustand zum Entlasszeitpunkt als ein Absatz mit kurzen klinischen Formulierungen ohne vollständige Sätze, ohne Aufzählungen oder Zeilenlisten, im selben Stil wie der Aufnahmebefund.
 
 Bewusstsein, Orientierung, neurologischer Status, Mobilität, Sensibilität, Motorik, Wunden und Allgemeinzustand nur nach tatsächlich vorliegenden Entlassbefunden. Aufnahmebefunde nicht ungeprüft als Entlassbefunde übernehmen.
+
+
+Bei degenerativen Wirbelsäulenerkrankungen den Entlassbefund ebenfalls auf objektivierbare, klinisch relevante postoperative Befunde konzentrieren: radikuläre Beschwerden, sensomotorischer Status, Gang und Mobilität, Wundstatus sowie dokumentierte Veränderungen gegenüber präoperativ. Subjektive Zufriedenheitsäußerungen wie „Patientin zufrieden“ sind kein klinischer Entlassbefund und gehören nicht in diesen Abschnitt. Keine vollständige Beschwerdefreiheit oder neurologische Normalität aus fehlenden Angaben ableiten.
 
 ## Empfehlungen
 Rubrik immer vorhanden. Jede Empfehlung beginnt mit „- “, niemals mit „* “. Keine zukünftigen Handlungsanweisungen im Verlauf verstecken.
