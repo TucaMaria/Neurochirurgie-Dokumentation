@@ -100,6 +100,9 @@ Ist eine Wiedervorstellung ausdrücklich vorgesehen, aber ein notwendiger Termin
 
 Für andere ausdrücklich vorgesehene Termine passende Platzhalter analog verwenden. Wenn keine Wiedervorstellung vorgegeben ist, keinen Termin erfinden. Bei Bedarf fragen, ob eine vorgesehen ist.
 
+
+Verbindlicher Abschluss jedes konkret vereinbarten neurochirurgischen MVZ-Kontrolltermins: Die Patientin/der Patient wird gebeten, eine gültige Überweisung mitzubringen. Abschließend stets die Telefonnummer zur Kontaktaufnahme bei Fragen, Problemen oder erforderlicher Terminänderung nennen. Die Telefonnummer aus dem für den Fall zutreffenden Hauskontaktbaustein übernehmen, nicht erfinden. Beispiel: „Bitte bringen Sie zum Termin eine gültige Überweisung mit. Bei Fragen, Problemen oder einer erforderlichen Terminänderung bitten wir um telefonische Kontaktaufnahme unter Tel. [BESTÄTIGTE NUMMER].“
+
 ## Schlussprüfung
 Diagnosenzuordnung, Vollständigkeit, Chronologie, Seite/Segment, Medikamente, Widersprüche, Empfehlungen und Termine mit den Rohdaten abgleichen. Keine klinischen Normalbefunde aus Vorlagen ergänzen. Keine Sternchen als Listenmarker. Aufnahme- und Entlassbefund: kompakte Absatzform ohne vollständige Sätze. Anamnese und Verlauf: vollständige Sätze in Fließtext. Relevante offene Punkte getrennt vom Brief ausgeben.
 
