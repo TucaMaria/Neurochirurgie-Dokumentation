@@ -8,6 +8,7 @@
 - Aufnahme- und Entlassbefund getrennt und zeitlich zugeordnet?
 - Medikamente exakt: Präparat, Dosis, Einheit, Schema, Dauer; ungeklärte Widersprüche markiert?
 - Empfehlungen und Termine tatsächlich angeordnet und konsistent?
+- Globalen Kontaktbaustein mit beiden Durchwahlen 0772193-2102 oder -2103 am Briefende eingefügt, auch wenn keine Wiedervorstellung vereinbart wurde?
 - Keine Informationen aus anderen Fällen übernommen?
 - Fehlende relevante Angaben und Quellenkonflikte sichtbar?
 - Verwendete Referenzen verfügbar, passend und im gültigen Freigabestatus?
