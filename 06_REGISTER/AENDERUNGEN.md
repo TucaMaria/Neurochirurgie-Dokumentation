@@ -48,3 +48,5 @@
 26.10.2026 · Version 0.24: Verbindliche klinische Synthese für Entlassbriefe: OP-Berichte in 1–2 ergebnisorientierten Sätzen statt technischer Nacherzählung, Bildgebung nur mit neurochirurgisch entscheidungsrelevanter Interpretation, Visiteneinträge zu logischem Verlauf verdichten. „Ausführlich“ bedeutet klinisch vollständig, nicht tagebuchartig. Masterprompt, Entlassbrief-Hauptprompt und Qualitätskontrolle aktualisiert.
 
 26.10.2026 · Version 0.25: Terminbaustein für Glioblastom/Hirnmetastasen ergänzt: neurochirurgische MRT-Kontrolle des Schädels drei Monate nach Abschluss der Strahlentherapie, telefonische Terminvereinbarung über 0772193-2102 oder -2103, Überweisung und aktuelle MRT-Bilder zur Vorstellung; nur bei entsprechend bestätigtem Behandlungs-/Nachsorgeplan.
+
+31.10.2026 · Version 0.26: Globalen Kontaktbaustein für Entlassbriefe auch ohne vereinbarten Kontrolltermin am Briefende verbindlich klargestellt; entsprechenden Pflichtcheck in Qualitätskontrolle ergänzt. Keine fiktiven Termine anlegen.
