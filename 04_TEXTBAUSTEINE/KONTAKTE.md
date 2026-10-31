@@ -5,4 +5,4 @@ Für alle Dokumenttypen, Pathologien und Eingriffe einheitlich verwenden. Sämtl
 
 - Bei Rückfragen oder zur Terminänderung bitten wir um Kontaktaufnahme unter Tel. 0772193-2102 oder -2103.
 
-Unter „Termine und Wiedervorstellungen“ ausgeben. Beide Durchwahlen nennen; keine pathologiespezifische Zuordnung ableiten.
+Bei vorhandenem Kontrolltermin unter „Termine und Wiedervorstellungen“ ausgeben. Auch ohne vereinbarte neurochirurgische Wiedervorstellung muss der Kontaktbaustein am Ende des Entlassbriefs stehen; keinen fiktiven Termin anlegen. Beide Durchwahlen nennen; keine pathologiespezifische Zuordnung ableiten.
