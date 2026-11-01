@@ -185,3 +185,13 @@ Diese Regel hat Vorrang vor älteren Formulierungen, die einen „ausführlichen
 Bei bestätigtem Glioblastom oder Hirnmetastasen und entsprechendem Nachsorgeplan im Abschnitt „Termine und Wiedervorstellungen“ ergänzen, nicht nochmals unter Empfehlungen:
 - Neurochirurgische Wiedervorstellung mit aktueller MRT-Untersuchung des Schädels drei Monate nach Abschluss der Strahlentherapie. Zur Terminvereinbarung bitten wir um telefonische Kontaktaufnahme unter Tel. 0772193-2102 oder -2103. Zum Termin bitten wir um Mitbringen einer entsprechenden Überweisung sowie der aktuellen MRT-Bilder.
 Bei histologisch noch unklarem malignem Tumor den Baustein nur anwenden, wenn diese Nachsorge tatsächlich vorgesehen ist; individuelle Anordnungen gehen vor. Nicht behaupten, dass der Termin bereits vereinbart sei.
+
+
+## Verbindlicher AHB-Textbaustein – Nutzerwortlaut vom 01.11.2026
+Bei dokumentiert über den Sozialdienst beantragter Anschlussheilbehandlung folgenden Satz **wortgetreu** im Verlauf verwenden; ausschließlich Anrede und Patientenname anpassen. Nicht umformulieren, kürzen oder durch eine allgemeine Reha-Empfehlung ersetzen:
+
+„Zur weiteren Befundstabilisierung haben wir über unseren Sozialdienst eine Anschlussheilbehandlung beantragt, über Ort und Zeitpunkt dieser Maßnahme wird [Frau/Herr] [NACHNAME] informiert werden.“
+
+Originalbeispiel des Nutzers: „Zur weiteren Befundstabilisierung haben wir über unseren Sozialdienst eine Anschlussheilbehandlung beantragt, über Ort und Zeitpunkt dieser Maßnahme wird Frau Molnar informiert werden.“
+
+Die Formulierung beschreibt eine bereits beantragte AHB. Ihre Verwendung setzt voraus, dass diese Beantragung für den aktuellen Fall bestätigt ist; bei fehlender Dokumentation gezielt klären, nicht als geschehen erfinden. Insbesondere den Standardsatz bei bestätigter Beantragung nicht durch eine unverbindliche Empfehlung ersetzen.
