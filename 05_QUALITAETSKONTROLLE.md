@@ -22,7 +22,8 @@
 - Künftige Handlungsanweisungen unter Empfehlungen; Termine vollständig im Terminabschnitt?
 
 ## Pathologiebezogene Prüfung
-- SDH: MMA allein / OP allein / Kombination richtig gewählt; Seite und Reihenfolge bestätigt?
+- SDH: konservativ / MMA allein / OP allein / Kombination richtig gewählt; Seite und gegebenenfalls Eingriffsreihenfolge bestätigt?
+- Konservatives akutes SDH (Variante D): dokumentierte Therapieabwägung, gegebenenfalls wechselnder Patientenwille und tatsächlich vereinbarte Therapiebegrenzungen korrekt dargestellt? Klinische und radiologische Entwicklung getrennt beurteilt? Keine Operation, postoperativen Maßnahmen oder Kontrollfristen aus Eingriffsvorlagen übernommen? Letzte Therapieentscheidung, individuelle CCT- und Wiedervorstellungsplanung sowie Entlassziel geprüft? Kurzzeitpflege nicht mit AHB verwechselt?
 - HWS: ventral Cage/Platte → Röntgen; dorsal Massa-lateralis → CT. Tatsächlicher Befund vorhanden?
 - LWS-Bandscheibenvorfall oder Spinalkanalstenose ohne Stabilisierung: keine Routinebildgebung bei unproblematischem Verlauf erfinden.
 - LWS-Stabilisierung: CT und Röntgen prüfen; keine regelrechte Implantatlage annehmen.
