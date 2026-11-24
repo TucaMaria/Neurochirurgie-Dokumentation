@@ -1,11 +1,34 @@
 # Subduralhämatom – modulare Referenz
-Referenz-ID: SDH-001 · Version 0.1 · Quelle: Nutzer, 09.10.2026
+Referenz-ID: SDH-001 · Version 0.2 · Quelle: Nutzer, 09.10.2026 und 24.11.2026
 Status: aus älteren Nutzertexten konsolidiert; klinische Varianten noch abzugleichen.
 
 ## Auswahl der Variante
-A: ausschließlich MMA-Embolisation. B: ausschließlich operative Ausräumung (Bohrlochtrepanation oder Kraniotomie). C: Operation und MMA-Embolisation; tatsächliche Reihenfolge aus Falldaten übernehmen.
+A: ausschließlich MMA-Embolisation. B: ausschließlich operative Ausräumung (Bohrlochtrepanation oder Kraniotomie). C: Operation und MMA-Embolisation; tatsächliche Reihenfolge aus Falldaten übernehmen. D: ausschließlich konservative Behandlung eines akuten Subduralhämatoms (fachlich freigegeben am 24.11.2026).
 
 Keine Hämatomausräumung für A beschreiben. Für B keine Embolisation hinzufügen. Bei C die Indikation jeder Maßnahme und ihre zeitliche Beziehung getrennt wiedergeben. Akut/chronisch, Seite, Rest-/Rezidivhämatom und Eingriff aus Falldaten übernehmen.
+
+## Variante D – konservative Behandlung eines akuten Subduralhämatoms
+Status: als Dokumentationsmodul fachlich freigegeben durch den Nutzer am 24.11.2026. Keine eigenständige Behandlungsleitlinie; Indikation, Überwachung und Nachsorge bleiben individuelle ärztliche Entscheidungen.
+
+### Diagnosen, Anamnese und Aufnahmebefund
+- Traumamechanismus, zeitliche Einordnung, Vigilanz, Orientierung, fokal-neurologische Befunde, Begleitverletzungen und relevante Vormedikation nach Falldaten erfassen. Widersprüchliche Amnesieangaben nicht stillschweigend auflösen.
+- Initiales CCT klinisch relevant zusammenfassen: Seite, Ausdehnung/Saumbreite, raumfordernde Wirkung, Mittellinienverlagerung und relevante zusätzliche Blutungen. Keine unbelegten Normalbefunde.
+
+### Verlauf
+- Tatsächlich erfolgte klinisch-neurologische Überwachung, Kontrollbildgebung und konservative Behandlung unter Therapien aufführen. Keine Operation, Embolisation oder Intensivbehandlung als erfolgt darstellen, wenn lediglich erwogen.
+- Entscheidung für konservatives Vorgehen anhand dokumentierter Befunde, klinischer Entwicklung und ärztlicher Abwägung erläutern. Patientenwille, Patientenverfügung und Therapiebegrenzung nur bei Beleg darstellen; Änderungen des Patientenwillens chronologisch wiedergeben. Einverständnis mit einer möglichen Operation nicht mit Zustimmung zu sämtlichen intensivmedizinischen Maßnahmen gleichsetzen.
+- CCT-Kontrollen zu einer klinischen Entwicklung verdichten. Größenkonstanz, Regredienz, Dichteänderung, Umverteilung und Progression unterscheiden. Keine Resorption aus bloßer Dichteminderung ableiten. Klinische Stabilität und radiologische Entwicklung getrennt bewerten.
+- Relevante Begleiterkrankungen und deren Behandlung, Mobilität, Hilfsmittelbedarf und Entlassziel fallbezogen integrieren. Bei organisierter Kurzzeitpflege diese ausdrücklich von Anschlussheilbehandlung unterscheiden; keine AHB-Formulierung verwenden. Aufnahme- und Entlassdatum bei widersprüchlichen Angaben klären.
+- Abschließende Therapieentscheidung von früher erwogenen Eingriffen abgrenzen; keine elektive Operation als fest geplant darstellen, wenn zuletzt konservatives Vorgehen vereinbart wurde.
+
+Abstrahiertes Stilbeispiel (nur mit jeweils belegten Angaben):
+„[DOKUMENTIERTE THERAPIEABWÄGUNG UND PATIENTENWILLE]. Unter [DOKUMENTIERTER ÜBERWACHUNG] zeigte sich [KLINISCHE ENTWICKLUNG]. Die CCT-Verlaufskontrollen ergaben [ENTWICKLUNG DES HÄMATOMS UND DER RAUMFORDERNDEN WIRKUNG]. [DOKUMENTIERTE BEGRÜNDUNG] wurde die konservative Behandlung fortgeführt. [RELEVANTE BEGLEITBEHANDLUNG UND MOBILITÄT]. Am [ENTLASSDATUM] entließen wir [PATIENT/IN] in [BESTÄTIGTES ENTLASSZIEL].“
+
+### Entlassbefund, Empfehlungen und Wiedervorstellung
+- Letzten dokumentierten neurologischen Status, Beschwerden und Mobilität in klinischen Kurzformulierungen wiedergeben; keine OP-Wunde oder Punktionsstelle aus Eingriffsvorlagen übernehmen.
+- Individuell dokumentierte Empfehlungen, Warnhinweise, antithrombotische Therapie und Kontrollplanung prüfen. Keine pauschalen postoperativen Schonungs-, Wund-, Fahrbeschränkungs- oder CCT-Fristen aus Varianten A–C übernehmen. Dies bedeutet nicht, dass bei konservativer Behandlung automatisch Fahreignung besteht.
+- Zeitpunkt der ambulanten Wiedervorstellung und Erfordernis/Ort einer erneuten Bildgebung getrennt anhand der Fallanordnung prüfen. Bei fehlender Festlegung gezielt klären; keine standardisierte Kontrollfrist oder bereits vereinbarten Termin erfinden.
+- Kontaktbaustein gemäß 04_TEXTBAUSTEINE/KONTAKTE.md verwenden.
 
 ## Verlauf – Eingriffsmodule
 Operation: „Angesichts der klinischen Symptomatik und des bildgebenden Befundes stellten wir die Indikation zur Hämatomausräumung. Am [DATUM] erfolgte [BOHRLOCHTREPANATION/KRANIOTOMIE, SEITE].“ Indikationsgrund und Narkose nur nach Dokumentation. Drainagen und Entfernung fallbezogen ergänzen.
@@ -39,7 +62,7 @@ Als Hausstandardformulierungen verwenden, sofern für diese Variante vom Nutzer 
 
 Den Satz „Der Patient wurde über dieses Fahrverbot ausführlich aufgeklärt“ nur bei dokumentierter Aufklärung im Verlauf verwenden. Schriftliche Aufklärung nur bei belegter schriftlicher Aufklärung. Bezugspunkt der Dreimonatsfrist nicht erfinden; bei notwendiger Datumsberechnung klären.
 
-## Empfehlungen / Termine
+## Empfehlungen / Termine (Varianten A–C)
 - Nach operativer Ausräumung: Entfernung der Hautklammern ab dem 12. postoperativen Tag bei weiterhin reizlosen Wundverhältnissen (vorgegebener Hausbaustein; Verschlussart und individuelle Anordnung prüfen).
 - Durchführung eines CCT in ca. vier Wochen; anschließend ambulante Befundkontrolle mit aktuellen CT-Bildern nach Terminvereinbarung (vorgegebener Baustein).
 
