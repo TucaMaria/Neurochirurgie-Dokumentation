@@ -50,3 +50,5 @@
 26.10.2026 · Version 0.25: Terminbaustein für Glioblastom/Hirnmetastasen ergänzt: neurochirurgische MRT-Kontrolle des Schädels drei Monate nach Abschluss der Strahlentherapie, telefonische Terminvereinbarung über 0772193-2102 oder -2103, Überweisung und aktuelle MRT-Bilder zur Vorstellung; nur bei entsprechend bestätigtem Behandlungs-/Nachsorgeplan.
 
 31.10.2026 · Version 0.26: Globalen Kontaktbaustein für Entlassbriefe auch ohne vereinbarten Kontrolltermin am Briefende verbindlich klargestellt; entsprechenden Pflichtcheck in Qualitätskontrolle ergänzt. Keine fiktiven Termine anlegen.
+
+24.11.2026 · Version 0.27: Nach ausdrücklicher fachlicher Nutzerfreigabe SDH-001 auf Version 0.2 erweitert: Variante D für konservativ behandeltes akutes Subduralhämatom mit abstrahiertem Verlaufsmodul, Patientenwillen und Therapiebegrenzungen, klinisch-radiologischer Verlaufssynthese, individueller Nachsorge und Abgrenzung zu operativen Standards. Qualitätskontrolle synchronisiert. Keine neuen pauschalen Therapie- oder Kontrollfristen und keine patientenbezogenen Daten aufgenommen.
