@@ -2,6 +2,9 @@
 Referenz-ID: TUM-001 · Version 0.1 · Quelle: Nutzer, 09.10.2026
 Status: Dokumentationsanforderungen des Tumorzentrums vom Nutzer beschrieben; keine extern geprüfte Zertifizierungsvorgabe.
 
+## Spezifische Referenz
+Bei transnasaler transsphenoidaler Resektion von Hypophysentumoren zusätzlich [HYPOPHYSENTUMOREN.md](HYPOPHYSENTUMOREN.md) (HYP-001) verwenden. Deren Terminbausteine und zugangsspezifische Prüfungen berücksichtigen; keine routinemäßige Hautnahtentfernung bei rein transnasalem Zugang.
+
 ## Operation / Bildgebung / Überwachung
 Eingriff und Resektionsausmaß nur nach OP-Dokumentation. CT-/MRT-Modalität, Zeitpunkt und Ergebnis fallbezogen. Kurzzeitige Intensivüberwachung und Verlegung am Folgetag nur bei entsprechendem Verlauf.
 
