@@ -80,3 +80,9 @@
 ## Ärztliche Perspektive (26.11.2026)
 - Klinischer Text aus Sicht des behandelnden Arztes, ohne metatextliche Quellenkommentare wie „soweit dokumentiert“ oder „laut vorliegendem Entlassbrief“?
 - Redaktionelle Rückfragen und fehlende Angaben außerhalb des Dokuments gesammelt, ohne klinisch relevante Unsicherheit oder zeitliche Befundgrenzen zu verschleiern?
+
+## Hypophysentumoren – transnasale transsphenoidale Resektion (26.11.2026)
+- HYP-001 berücksichtigt? Resektionsausmaß, Resttumor, Visus/Gesichtsfeld, Okulomotorik und nasale Verhältnisse korrekt dargestellt?
+- Hormonprofil, Hydrocortison-Entlassschema, Natrium, Diurese/Flüssigkeitsbilanz und Hinweise auf endokrine Komplikationen geprüft, ohne unbelegte Normalbefunde oder Standarddosen?
+- Endokrinologischer Termin bei Prof. Spangenberg (oder individuell zuständige Stelle) und hausärztliche Überweisung berücksichtigt? Hypophysen-Sprechstunde, MRT-Termin, Besprechungstermin und aktueller augenärztlicher Befund mit Visus und Gesichtsfeld berücksichtigt? Keine historischen Termine übernehmen; Kontakt mit beiden Durchwahlen.
+- Keine routinemäßige Hautnahtentfernung bei rein transnasalem Zugang; fehlende nasale und endokrinologische Nachsorgeanordnungen separat klären.
