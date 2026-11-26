@@ -91,3 +91,6 @@
 - Konkrete ambulante Elektrolyt-/Natriumkontrolle einschließlich Risikofenster Tag 7–8 und individuelle weitere Kontrollen berücksichtigt? Keine Entlassungsempfehlung ohne Klärung auffälliger Bilanz oder Elektrolyte.
 - Endokrinologische Mitbetreuung und Reevaluation sämtlicher Hypophysenachsen, erforderliches Hydrocortison-/Notfallschema, Visus/Gesichtsfeld, MRT-Plan, nasale Verhaltensmaßnahmen und Warnzeichen berücksichtigt? Bei Apoplexie kortikotrope Funktion vor Absetzen der Glukokortikoide geklärt?
 - Keine pauschale Flüssigkeitsrestriktion bei möglichem AVP-Mangel; keine unbelegten Hormondosen oder bereits vereinbarten Termine. Leitliniengestützte Vorschläge von bestätigten lokalen Anordnungen unterscheiden.
+
+## Neuroradiologische Eingriffe – Gefäßzugang (26.11.2026)
+- Arterieller Zugang und Seite korrekt? Tägliche Pulskontrolle der Zugangsarterie und tatsächliche Befunde im Verlauf ausdrücklich berücksichtigt? Fehlende Bestätigung separat erfragt, keine unbelegten täglichen Kontrollen oder Normalbefunde? Punktionsstelle und periphere Durchblutung nur bei belegtem Befund ergänzt?
