@@ -52,3 +52,5 @@
 31.10.2026 · Version 0.26: Globalen Kontaktbaustein für Entlassbriefe auch ohne vereinbarten Kontrolltermin am Briefende verbindlich klargestellt; entsprechenden Pflichtcheck in Qualitätskontrolle ergänzt. Keine fiktiven Termine anlegen.
 
 24.11.2026 · Version 0.27: Nach ausdrücklicher fachlicher Nutzerfreigabe SDH-001 auf Version 0.2 erweitert: Variante D für konservativ behandeltes akutes Subduralhämatom mit abstrahiertem Verlaufsmodul, Patientenwillen und Therapiebegrenzungen, klinisch-radiologischer Verlaufssynthese, individueller Nachsorge und Abgrenzung zu operativen Standards. Qualitätskontrolle synchronisiert. Keine neuen pauschalen Therapie- oder Kontrollfristen und keine patientenbezogenen Daten aufgenommen.
+
+26.11.2026 · Version 0.28: Dokumentübergreifende Nutzerkorrektur zur natürlichen Perspektive des behandelnden Arztes; metatextliche Quellenkommentare aus medizinischen Dokumenten entfernen, offene Angaben separat nach dem Dokument aufführen. Klinische Unsicherheit, Befundgrenzen und Faktenbindung bleiben erhalten. Masterprompt, Entlassbrief-Hauptprompt und Qualitätskontrolle synchronisiert.
