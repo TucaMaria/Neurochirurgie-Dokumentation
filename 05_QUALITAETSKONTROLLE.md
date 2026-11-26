@@ -76,3 +76,7 @@
 - Bisherige Forderung nach ausführlichem Verlauf als ausreichende klinische Substanz, nicht als Textlänge verstanden?
 
 - Bei Glioblastom oder Hirnmetastasen und entsprechendem Strahlentherapie-Nachsorgeplan: MRT-Kontrolle des Schädels drei Monate nach Abschluss der Strahlentherapie nur unter „Termine und Wiedervorstellungen“, mit Kontakt 0772193-2102 oder -2103, Überweisung und aktuellen MRT-Bildern; keine bereits vereinbarte Terminierung behaupten.
+
+## Ärztliche Perspektive (26.11.2026)
+- Klinischer Text aus Sicht des behandelnden Arztes, ohne metatextliche Quellenkommentare wie „soweit dokumentiert“ oder „laut vorliegendem Entlassbrief“?
+- Redaktionelle Rückfragen und fehlende Angaben außerhalb des Dokuments gesammelt, ohne klinisch relevante Unsicherheit oder zeitliche Befundgrenzen zu verschleiern?
