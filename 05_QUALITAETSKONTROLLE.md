@@ -86,3 +86,8 @@
 - Hormonprofil, Hydrocortison-Entlassschema, Natrium, Diurese/Flüssigkeitsbilanz und Hinweise auf endokrine Komplikationen geprüft, ohne unbelegte Normalbefunde oder Standarddosen?
 - Endokrinologischer Termin bei Prof. Spangenberg (oder individuell zuständige Stelle) und hausärztliche Überweisung berücksichtigt? Hypophysen-Sprechstunde, MRT-Termin, Besprechungstermin und aktueller augenärztlicher Befund mit Visus und Gesichtsfeld berücksichtigt? Keine historischen Termine übernehmen; Kontakt mit beiden Durchwahlen.
 - Keine routinemäßige Hautnahtentfernung bei rein transnasalem Zugang; fehlende nasale und endokrinologische Nachsorgeanordnungen separat klären.
+
+## Hypophysenoperation – leitliniengestützte ambulante Nachsorge (26.11.2026)
+- Konkrete ambulante Elektrolyt-/Natriumkontrolle einschließlich Risikofenster Tag 7–8 und individuelle weitere Kontrollen berücksichtigt? Keine Entlassungsempfehlung ohne Klärung auffälliger Bilanz oder Elektrolyte.
+- Endokrinologische Mitbetreuung und Reevaluation sämtlicher Hypophysenachsen, erforderliches Hydrocortison-/Notfallschema, Visus/Gesichtsfeld, MRT-Plan, nasale Verhaltensmaßnahmen und Warnzeichen berücksichtigt? Bei Apoplexie kortikotrope Funktion vor Absetzen der Glukokortikoide geklärt?
+- Keine pauschale Flüssigkeitsrestriktion bei möglichem AVP-Mangel; keine unbelegten Hormondosen oder bereits vereinbarten Termine. Leitliniengestützte Vorschläge von bestätigten lokalen Anordnungen unterscheiden.
